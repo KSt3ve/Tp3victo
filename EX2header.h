@@ -10,13 +10,13 @@
 #include <QPushButton>
 #include <QTextEdit>
 
-class mainWindow_Exo2: public QMainWindow{
+class WindowEx2: public QMainWindow{
 
     Q_OBJECT;
 
 public:
 
-    mainWindow_Exo2(QWidget* parent = nullptr);
+    WindowEx2(QWidget* parent = nullptr);
 
 private:
 
